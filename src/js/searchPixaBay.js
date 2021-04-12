@@ -1,4 +1,4 @@
-class SearchPixaBuy {
+class SearchPixaBay {
   constructor(APIkey, template) {
     this._APIkey = APIkey;
     this._searchQuery = '';
@@ -56,4 +56,4 @@ class SearchPixaBuy {
   }
 }
 
-export default SearchPixaBuy;
+export default SearchPixaBay;
